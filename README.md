@@ -2,4 +2,4 @@
 Realizando a saga rumo a um emprego na área da programação
 
 ## Links úteis
-[https://www.markdownguide.org/basic-syntax/]()
+[Sintaxe básica markdown](https://www.markdownguide.org/basic-syntax/)
